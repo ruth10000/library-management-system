@@ -1,0 +1,4 @@
+[2025-06-13T16:17:32.781936300] Book added: merbebt (ID: 100)
+[2025-06-13T16:17:59.143993700] Member registered: kebede (ID: 1)
+[2025-06-13T16:31:47.908713600] Book added: amo (ID: 22)
+[2025-06-13T16:32:20.557216700] Member registered: mmm (ID: 12)
